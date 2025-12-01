@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "prettier": "^3.7.3",
+    "prettier-plugin-solidity": "^2.2.0",
+    "solhint": "^6.0.1"
+  }
+}
