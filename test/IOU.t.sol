@@ -20,7 +20,7 @@ contract CounterTest is Test {
         protocol.accrue(address(1), 10 ether);
         protocol.accrue(address(1), 10 ether);
         protocol.accrue(address(1), 10 ether);
-        
+
         vm.prank(address(1));
         protocol.withdraw(30 ether);
     }
